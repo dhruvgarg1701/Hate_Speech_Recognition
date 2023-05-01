@@ -1,10 +1,11 @@
 # Hate_Speech_Recognition
 
-This project has been developed Under the Course of AI Application mentored by Dr. Saurabh Sharma
-Made by-
+This project has been developed Under the Course of AI Application by
 Dhruv Garg
 102065034
 3NC3
+
+mentored by Dr. Saurabh Sharma
 
 This project is a machine learning model for recognizing hate speech in text data. It is designed to help combat the spread of harmful and derogatory language on social media and other online platforms.
 
