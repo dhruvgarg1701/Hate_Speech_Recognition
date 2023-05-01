@@ -22,11 +22,10 @@ License
 
 To run this project locally, you will need to install the following dependencies:
 
-Python 3
-Pandas
-Scikit-learn
-NLTK
-To install these dependencies, run the following command:
+* Python 3
+* Pandas
+* Scikit-learn
+* NLTK
 
 ## Data
 The model was trained on a dataset of social media tweets that were manually labeled as either containing hate speech or not. The dataset contains tweets in total, with a roughly even split between hate speech and non-hate speech.
